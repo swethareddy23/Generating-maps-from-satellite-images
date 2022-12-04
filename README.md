@@ -19,6 +19,8 @@ The architecture of Pix2Pix will contain:
 ### Pix2Pix Generator
 The generator of pix2pix CGAN is a modified U-Net.
 * A U-Net consists of an encoder (downsampler) and decoder (upsampler).
+|<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Generator.png width='250' height='250' /> |
+
 
 ### Pix2Pix Discriminator
 * The discriminator in the pix2pix cGAN is a convolutional PatchGAN classifier—it tries to classify if each image patch is real or not real.
