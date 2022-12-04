@@ -35,4 +35,12 @@ The formula to calculate the total generator loss is
  * BCE loss+ LAMBDA * ∑i=1 to n  |generated_output - real_output|.</br>
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Generator_Loss.png width='250' height='150' /></br>
 
+## Discriminator loss:
+The discriminator loss function takes 2 inputs: real images and generated images.
+*	Real loss is a Binary cross-entropy loss of the real images and an array of ones (since these are the real images).
+*	Generated loss is a Binary cross-entropy loss of the generated images and an array of zeros (since these are the fake images).
+*	The total loss is the sum of real loss and generated loss.
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_Loss.png width='400' height='250' /></br>
+
+
 
