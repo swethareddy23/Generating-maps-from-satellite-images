@@ -31,6 +31,8 @@ The generator of pix2pix CGAN is a modified U-Net.
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_1.png width='400' height='250' /></br>
 
 ## Generator Loss:
-* The formula to calculate the total generator loss is 
-•	BCE loss+ LAMBDA * ∑i=1 to n  |generated_output - real_output|.
+The formula to calculate the total generator loss is 
+ * BCE loss+ LAMBDA * ∑i=1 to n  |generated_output - real_output|.</br>
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Generator_Loss.png width='400' height='250' /></br>
+
 
