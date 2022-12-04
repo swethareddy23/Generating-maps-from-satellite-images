@@ -13,6 +13,6 @@ Model Used: Pix2Pix GAN </br>
 The models aim at finding the patterns between the input and output image. Image to image translation is employed to convert satellite images to the corresponding maps.</br>
 Pix2Pix GAN’s have some conditional settings and they learn the image-to-image mapping under this condition. Whereas, basic GAN’s generate images from a random distribution vector with no condition applied.</br>
 The architecture of Pix2Pix will contain: 
-* A generator with a U-Net-based architecture. 
-* A discriminator represented by a convolutional PatchGAN classifier.
+  * A generator with a U-Net-based architecture. 
+  * A discriminator represented by a convolutional PatchGAN classifier.
 
