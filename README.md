@@ -39,8 +39,8 @@ The formula to calculate the total generator loss is
 The discriminator loss function takes 2 inputs: real images and generated images.
 *	Real loss is a Binary cross-entropy loss of the real images and an array of ones (since these are the real images).
 *	Generated loss is a Binary cross-entropy loss of the generated images and an array of zeros (since these are the fake images).
-*	The total loss is the sum of real loss and generated loss.
-<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_loss.png width='400' height='250' /></br>
+*	The total loss is the sum of real loss and generated loss.</br>
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_loss.png width='400' height='300' /></br>
 
 
 
