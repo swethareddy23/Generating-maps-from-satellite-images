@@ -58,3 +58,7 @@ The discriminator loss function takes 2 inputs: real images and generated images
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/Satellite_image_epoch20.png width='650' height='200' /></br>
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/Ground_truth_epoch20.png width='650' height='200' /></br>
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/resultmap_epoch20.png width='650' height='200' /></br>
+
+## Testing Results:
+https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/test.png
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/test.png width='650' height='200' /></br>
