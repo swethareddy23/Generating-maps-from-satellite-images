@@ -25,4 +25,7 @@ The generator of pix2pix CGAN is a modified U-Net.
 
 
 ### Pix2Pix Discriminator
-* The discriminator in the pix2pix cGAN is a convolutional PatchGAN classifier—it tries to classify if each image patch is real or not real.
+* The discriminator in the pix2pix cGAN is a Convolutional PatchGAN classifier—it tries to classify if each image patch is real or not real.</br>
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator.png width='400' height='250' />
+#### Discrimintaor Network:
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_1.png width='400' height='250' />
