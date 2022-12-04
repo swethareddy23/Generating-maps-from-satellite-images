@@ -43,8 +43,10 @@ The discriminator loss function takes 2 inputs: real images and generated images
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Discriminator_loss.png width='400' height='300' /></br>
 
 ## Training Results:
-* Epoch=10 </br>
+* Epoch=0 </br>
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/Satellite_image_epoch0.png width='650' height='200' /></br>
+<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/Ground_truth_epoch0.png width='650' height='200' /></br>
+
 
 * Epoch=10 </br>
 <img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Training/Satellite_image_epoch10.png width='650' height='200' /></br>
