@@ -18,7 +18,7 @@ The architecture of Pix2Pix will contain:
 
 ### Pix2Pix Generator
 The generator of pix2pix CGAN is a modified U-Net.
-* A U-Net consists of an encoder (downsampler) and decoder (upsampler).
+* A U-Net consists of an encoder (downsampler) and decoder (upsampler).</br>
 |<img src= https://github.com/swethareddy23/Generating-maps-from-satellite-images/blob/main/Generator.png width='250' height='250' /> |
 
 
